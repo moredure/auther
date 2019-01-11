@@ -2,9 +2,9 @@ package main
 
 import (
 	"github.com/labstack/echo"
-	"github.com/mikefaraponov/pentestable-auther/bootstrap"
-	"github.com/mikefaraponov/pentestable-auther/resources"
-	"github.com/mikefaraponov/pentestable-auther/server"
+	"github.com/mikefaraponov/auther/bootstrap"
+	"github.com/mikefaraponov/auther/resources"
+	"github.com/mikefaraponov/auther/server"
 	"go.uber.org/fx"
 )
 
