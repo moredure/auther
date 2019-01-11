@@ -2,7 +2,7 @@ package server
 
 import (
 	"github.com/labstack/echo"
-	"github.com/mikefaraponov/pentestable-auther/resources"
+	"github.com/mikefaraponov/auther/resources"
 	"github.com/sirupsen/logrus"
 	"io/ioutil"
 	"net/http"
